@@ -40,6 +40,7 @@ li {
 
 .first-section {
     display: flex;
+    margin-top: 10px;
     justify-content: space-evenly;
     background-color: #FDD460;
     border-radius: 15px;
